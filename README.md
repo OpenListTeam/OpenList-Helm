@@ -36,7 +36,7 @@ The default values.yaml should be suitable for most basic deployments.
 |----------------------------|-----------------------------------------------------------------------------|--------------------------|
 | `image.registry`           | Imag registry                                                               | `docker.io`              |
 | `image.repository`         | Image name                                                                  | `openlistteam/openlist`  |
-| `image.tag`                | Image tag                                                                   | `latest`                 |
+| `image.tag`                | Image tag                                                                   | `v4.1.6`                 |
 | `image.pullPolicy`         | Image pull policy                                                           | `IfNotPresent`           |
 | `persistence.storageClass` | Specify the storageClass used to provision the volume                       |                          |
 | `persistence.accessMode`   | The access mode of the volume                                               | `ReadWriteOnce`          |

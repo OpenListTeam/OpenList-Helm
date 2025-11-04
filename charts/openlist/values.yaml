@@ -5,7 +5,7 @@ fullnameOverride: ""
 image:
   registry: docker.io
   repository:  openlistteam/openlist
-  tag: latest
+  tag: v4.1.6
   pullPolicy: IfNotPresent
 
 replicaCount: 1
